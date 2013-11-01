@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureChat", "AzureChat\AzureChat.csproj", "{17C73DCE-0B3D-4E83-8591-22038112C19D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBusClient", "AzureBusClient\AzureBusClient.csproj", "{24E8BB83-6DC9-45AE-BF2D-503BB6488CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBusTestApp", "AzureBusTestApp\AzureBusTestApp.csproj", "{5E7A6699-5E6E-423F-BB1F-655F0046428D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C73DCE-0B3D-4E83-8591-22038112C19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C73DCE-0B3D-4E83-8591-22038112C19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C73DCE-0B3D-4E83-8591-22038112C19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C73DCE-0B3D-4E83-8591-22038112C19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E8BB83-6DC9-45AE-BF2D-503BB6488CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E8BB83-6DC9-45AE-BF2D-503BB6488CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E8BB83-6DC9-45AE-BF2D-503BB6488CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E8BB83-6DC9-45AE-BF2D-503BB6488CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7A6699-5E6E-423F-BB1F-655F0046428D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7A6699-5E6E-423F-BB1F-655F0046428D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7A6699-5E6E-423F-BB1F-655F0046428D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7A6699-5E6E-423F-BB1F-655F0046428D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
